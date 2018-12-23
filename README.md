@@ -5,7 +5,7 @@ Press the button to get a number
 https://jbernard3396.itch.io/the-button-game
 
 ## Download and play
-Download and extract the zip file.
-Right-click index.html and select 'Open with'
-Select your prefered browser
-Enjoy!
+1. Download and extract the zip file.
+2. Right-click index.html and select 'Open with'
+3. Select your prefered browser
+4. Enjoy!
